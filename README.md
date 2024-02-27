@@ -1,7 +1,6 @@
 
 ## Screenshots
 
-![App Screenshot](./screenshots/snap.png)
 ![App Screenshot](./screenshots/snap2.png)
 
 
