@@ -23,7 +23,7 @@ export default function App() {
 
       <View style={styles.inputContainer}>
         <TextInput style={styles.textInput}
-          placeholder='Your course goallllllllllll! '
+          placeholder='Your course goalllllllllll! '
           value={enteredGoalText}
           onChangeText={goalInputHandler} />
         <Button title="Add Goal" onPress={addGoalhandler}/>
